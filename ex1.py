@@ -1,7 +1,7 @@
-print "hello world"
-print "hello again"
-print "i like typing this."
-print "this is fun."
-print 'yay! printing.'
-print "I'd much rather you 'not'."
-print 'I "said" do not touch this.'
+print("hello world", end=' ')
+print("hello again", end=' ')
+print("i like typing this.", end=' ')
+print("this is fun.", end=' ')
+print('yay! printing.', end=' ')
+print("I'd much rather you 'not'.", end=' ')
+print('I "said" do not touch this.', end=' ')

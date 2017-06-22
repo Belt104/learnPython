@@ -3,18 +3,18 @@ binary = "binary"
 do_not = "don't"
 y = "thoes who know %s and thoes who %s." % (binary, do_not)
 
-print q
-print y
+print(q)
+print(y)
 
-print "I said: %r." % x
-print "I also said: '%s'." % y
+print("I said: %r." % x)
+print("I also said: '%s'." % y)
 
 hilarious = false
 joke_evaluation = "Isn't that joke so funny?! %r"
 
-print joke_evaluation % hilarious
+print(joke_evaluation % hilarious)
 
 w = "This is the left side of..."
 e = "a string with a right side."
 
-print w + e
+print(w + e)
